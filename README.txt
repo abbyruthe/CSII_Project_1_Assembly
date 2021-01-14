@@ -1,9 +1,7 @@
 This was the first project for Computer Science II in the Fall of 2020 instructed by Dr. Louis Yu. 
 
 The course first opened with a month long introduction to Assembly. More specifically, SLIM assembly language. 
-SLIM was a simplified language that was utilized to show the basics of Assembly, and we ran all of our SLIM code through a SLIM machine
-built by professors at Gustavus standing for Super-Lean Instruction Machine which again is a boiled down version of where Assembly language
-would actually be run. 
+SLIM was a simplified computer (standing for Super-Leadn Instruction Machine) that was utilized to show the basics of Assembly.
 
 This project consisted of 4 tasks. 
 
