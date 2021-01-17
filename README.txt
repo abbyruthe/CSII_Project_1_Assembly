@@ -31,3 +31,12 @@ def power (b, e):
         return b * power(b, e - 1)
 
 The final part of this project was writing a report. This report analyzed the instruction count data for the procedures for the various tasks. 
+
+In the repository, you will see that there are 2 different files for each task (except for task 1). These files are the "unedited" version which contains a plethora of comments and notes as I was coding that I left in there for logic purposes and the other is the "submission" version that is the raw code. 
+
+The explanation for the project can be found here: http://homepages.gac.edu/~lyu/teaching/mcs178-f20/project1.html
+
+The explanation for the report can be found in the file under the name: Report_1_explanation
+
+Thank you for reading!
+- Abby
